@@ -1,0 +1,11 @@
+node_modules/
+frontend/node_modules/
+backend/venv/
+venv/
+.env
+__pycache__/
+instance/
+uploads/
+htmlcov/
+.coverage
+*.db
