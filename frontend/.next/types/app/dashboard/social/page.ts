@@ -1,4 +1,4 @@
-// File: D:\AI Socila medai\frontend\src\app\dashboard\social\page.tsx
+// File: /workspaces/district360-social-media/frontend/src/app/dashboard/social/page.tsx
 import * as entry from '../../../../../src/app/dashboard/social/page.js'
 import type { ResolvingMetadata, ResolvingViewport } from 'next/dist/lib/metadata/types/metadata-interface.js'
 

@@ -1,14 +1,17 @@
 {
+  "/_not-found/page": "app/_not-found/page.js",
   "/auth/login/page": "app/auth/login/page.js",
-  "/page": "app/page.js",
   "/auth/otp/page": "app/auth/otp/page.js",
+  "/page": "app/page.js",
+  "/dashboard/collector/page": "app/dashboard/collector/page.js",
   "/dashboard/content/page": "app/dashboard/content/page.js",
+  "/dashboard/analytics/page": "app/dashboard/analytics/page.js",
+  "/dashboard/media/page": "app/dashboard/media/page.js",
   "/dashboard/page": "app/dashboard/page.js",
+  "/dashboard/reports/page": "app/dashboard/reports/page.js",
+  "/dashboard/service-requests/page": "app/dashboard/service-requests/page.js",
+  "/dashboard/settings/page": "app/dashboard/settings/page.js",
   "/dashboard/social/accounts/page": "app/dashboard/social/accounts/page.js",
   "/dashboard/social/page": "app/dashboard/social/page.js",
-  "/dashboard/analytics/page": "app/dashboard/analytics/page.js",
-  "/dashboard/reports/page": "app/dashboard/reports/page.js",
-  "/dashboard/media/page": "app/dashboard/media/page.js",
-  "/dashboard/settings/page": "app/dashboard/settings/page.js",
-  "/dashboard/collector/page": "app/dashboard/collector/page.js"
+  "/dashboard/users/page": "app/dashboard/users/page.js"
 }

@@ -1,4 +1,4 @@
-// File: D:\AI Socila medai\frontend\src\app\auth\otp\page.tsx
+// File: /workspaces/district360-social-media/frontend/src/app/auth/otp/page.tsx
 import * as entry from '../../../../../src/app/auth/otp/page.js'
 import type { ResolvingMetadata, ResolvingViewport } from 'next/dist/lib/metadata/types/metadata-interface.js'
 
